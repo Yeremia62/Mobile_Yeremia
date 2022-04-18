@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APK MObile/MOBILE-6803-main/Tugas 6_06195 Android developer unit 2 pathway 3/Recycle View/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/APK MObile/MOBILE-6803-main/Tugas 6_06195 Android developer unit 2 pathway 3/Recycle View/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Android development/Kotlin/Tugas 6/Recycle View/app/src/main/res/layout/activity_main.xml" value="0.24592391304347827" />
+        <entry key="..\:/Android development/Kotlin/Tugas 6/Recycle View/app/src/main/res/layout/list_item.xml" value="0.24592391304347827" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
